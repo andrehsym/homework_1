@@ -154,5 +154,6 @@ public class Main {
         int mid = (f - h)/10;
 
         System.out.println(mid);
+
     }
 }
